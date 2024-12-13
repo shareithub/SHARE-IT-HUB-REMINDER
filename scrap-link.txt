@@ -1,2 +1,3 @@
 LIST AIRDROP / BOT :
 LIST TESTNET / NODE ( CLI ) :
+[node pepek123213](https://t.me/TEST333R12/40)
