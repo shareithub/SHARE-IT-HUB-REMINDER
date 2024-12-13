@@ -23,8 +23,8 @@
 𝗟𝗜𝗦𝗧 𝗧𝗨𝗧𝗢𝗥𝗜𝗔𝗟 :
 📍[CARA MEMBACA CPU USAGE DI VPS](https://t.me/SHAREITHUB_COM/657)
 📍[CARA GANTI PASSWORD VPS / RDP](https://youtu.be/SEtCdIjPHEc)
-
-
+📍[CARA INSTALL UBUNTU DI TERMUX](https://youtu.be/tWkCiSKKHEQ)
+📍[CARA INSTALL WSL ( Winsdows subsystem Linux ) di windows](https://youtu.be/Hkm0YKNRnIc)
 
 
 
