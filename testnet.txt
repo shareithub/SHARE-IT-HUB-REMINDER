@@ -11,3 +11,4 @@ LIST TESTNET
 [✅ TESTNET - Monads Public Testnet](https://t.me/SHAREITHUB_COM/2085)
 [✅ TESTNET - Kite AI](https://t.me/SHAREITHUB_COM/2116)
 [✅ TESTNET - Genome Protocol **](https://t.me/SHAREITHUB_COM/2153)
+[✅ TESTNET - Persistence](https://t.me/SHAREITHUB_COM/2158)
