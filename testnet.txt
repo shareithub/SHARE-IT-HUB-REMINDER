@@ -13,3 +13,4 @@ LIST TESTNET
 [✅ TESTNET - Persistence](https://t.me/SHAREITHUB_COM/2158)
 [✅ TESTNET - Rome Protocol](https://t.me/SHAREITHUB_COM/2226)
 [✅ TESTNET - PRIMEFI](https://t.me/SHAREITHUB_COM/2231)
+[✅ TESTNET - KRNL](https://t.me/SHAREITHUB_COM/2309)
