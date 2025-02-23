@@ -19,5 +19,4 @@ LIST NODE
 [✅ NODE - 0G Labs](https://t.me/SHAREITHUB_COM/2244)
 [✅ NODE - DILL FOR NEW USER](https://t.me/SHAREITHUB_COM/2290)
 [✅ NODE - FourtyTwo Network (Monad)](https://t.me/SHAREITHUB_COM/2306)
-[✅ nodes:1 Access to fetch at 'https://app.dynamicauth.com/api/v0/sdk/adc09cea-6194-4667-8be8-931cc28dacd2/verify' from origin 'https://app.nexus.xyz' has been blocked by CORS policy: No 'Access-Control-Allow-Origin' header is present on the requested resource. If an opaque response serves your needs, set the request's mode to 'no-cors' to fetch the resource with CORS disabled.](https://t.me/SHAREITHUB_COM/2407)
 [✅ NODE - NEXUS ( CLI ) 🗿](https://t.me/SHAREITHUB_COM/2514)
