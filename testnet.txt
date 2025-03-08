@@ -11,3 +11,4 @@ LIST TESTNET
 [✅ TESTNET - Mavryk](https://t.me/SHAREITHUB_COM/2704)
 [✅ TESTNET - Moncave](https://t.me/SHAREITHUB_COM/2876)
 [✅ TESTNET - DoubleZero (Beta)](https://t.me/SHAREITHUB_COM/2884)
+[✅ TESTNET - Taya](https://t.me/SHAREITHUB_COM/2885)
