@@ -13,3 +13,4 @@ LIST TESTNET
 [✅ TESTNET - DoubleZero (Beta)](https://t.me/SHAREITHUB_COM/2884)
 [✅ TESTNET - Taya](https://t.me/SHAREITHUB_COM/2885)
 [✅ TESTNET - Helix Labs](https://t.me/SHAREITHUB_COM/2886)
+[✅ TESTNET - Monadex](https://t.me/SHAREITHUB_COM/2887)
