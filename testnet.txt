@@ -34,3 +34,4 @@ LIST TESTNET
 [✅ TESTNET -  Zer0 Dex x 0G Labs](https://t.me/SHAREITHUB_COM/3258)
 [✅ TESTNET - Dyson Finance](https://t.me/SHAREITHUB_COM/3278)
 [✅ TESTNET - T1](https://t.me/SHAREITHUB_COM/3376)
+[✅ TESTNET - Seal by MystenLabs](https://t.me/SHAREITHUB_COM/3377)
