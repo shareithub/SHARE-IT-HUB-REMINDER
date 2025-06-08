@@ -8,7 +8,7 @@
         ],
         "first_line": "testnet",
         "added_time_utc": "2025-06-08T14:44:24.726807+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 151,
@@ -19,7 +19,7 @@
         ],
         "first_line": "testnet 2",
         "added_time_utc": "2025-06-08T14:44:31.338750+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 152,
@@ -30,7 +30,7 @@
         ],
         "first_line": "testnet 3",
         "added_time_utc": "2025-06-08T14:44:33.373124+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 153,
@@ -41,7 +41,7 @@
         ],
         "first_line": "testnet 4",
         "added_time_utc": "2025-06-08T14:44:35.361671+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 154,
@@ -52,7 +52,7 @@
         ],
         "first_line": "testnet 5",
         "added_time_utc": "2025-06-08T14:44:37.389624+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 155,
@@ -63,7 +63,7 @@
         ],
         "first_line": "testnet 6",
         "added_time_utc": "2025-06-08T14:44:39.271354+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 156,
@@ -74,7 +74,7 @@
         ],
         "first_line": "testnet 7",
         "added_time_utc": "2025-06-08T14:44:41.150532+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 157,
@@ -85,7 +85,7 @@
         ],
         "first_line": "testnet 8",
         "added_time_utc": "2025-06-08T14:44:43.613293+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 158,
@@ -96,7 +96,7 @@
         ],
         "first_line": "testnet 9",
         "added_time_utc": "2025-06-08T14:44:46.773525+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 159,
@@ -107,7 +107,7 @@
         ],
         "first_line": "testnet 10",
         "added_time_utc": "2025-06-08T14:44:50.290859+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 160,
@@ -118,7 +118,7 @@
         ],
         "first_line": "testnet 11",
         "added_time_utc": "2025-06-08T14:44:53.754739+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 161,
@@ -129,7 +129,7 @@
         ],
         "first_line": "testnet 12",
         "added_time_utc": "2025-06-08T14:44:57.512184+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 162,
@@ -140,7 +140,7 @@
         ],
         "first_line": "testnet 13",
         "added_time_utc": "2025-06-08T14:45:00.904039+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 163,
@@ -151,7 +151,7 @@
         ],
         "first_line": "testnet 14",
         "added_time_utc": "2025-06-08T14:45:03.762279+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 164,
@@ -162,7 +162,7 @@
         ],
         "first_line": "testnet 15",
         "added_time_utc": "2025-06-08T14:45:06.151471+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 165,
@@ -173,7 +173,7 @@
         ],
         "first_line": "testnet 16",
         "added_time_utc": "2025-06-08T14:45:08.562230+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 166,
@@ -184,7 +184,7 @@
         ],
         "first_line": "testnet 17",
         "added_time_utc": "2025-06-08T14:45:10.919815+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 167,
@@ -195,7 +195,7 @@
         ],
         "first_line": "testnet 18",
         "added_time_utc": "2025-06-08T14:45:13.186630+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 168,
@@ -206,7 +206,7 @@
         ],
         "first_line": "testnet 19",
         "added_time_utc": "2025-06-08T14:45:16.442046+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 169,
@@ -217,7 +217,7 @@
         ],
         "first_line": "testnet 20",
         "added_time_utc": "2025-06-08T14:45:19.083763+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 170,
