@@ -108,5 +108,16 @@
         "first_line": "testnet 10",
         "added_time_utc": "2025-06-08T14:44:50.290859+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 160,
+        "chat_id": -1002716907736,
+        "message_link": "https://t.me/c/2716907736/160",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "testnet 11",
+        "added_time_utc": "2025-06-08T14:44:53.754739+00:00",
+        "status": "pending"
     }
 ]
