@@ -8,7 +8,7 @@
         ],
         "first_line": "test 1",
         "added_time_utc": "2025-06-08T14:39:28.576429+00:00",
-        "status": "sent"
+        "status": "pending"
     },
     {
         "message_id": 146,
@@ -19,7 +19,7 @@
         ],
         "first_line": "test 2",
         "added_time_utc": "2025-06-08T14:40:25.024667+00:00",
-        "status": "sent"
+        "status": "pending"
     },
     {
         "message_id": 147,
@@ -30,6 +30,6 @@
         ],
         "first_line": "test 3",
         "added_time_utc": "2025-06-08T14:40:29.166179+00:00",
-        "status": "sent"
+        "status": "pending"
     }
 ]
