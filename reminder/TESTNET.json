@@ -75,5 +75,16 @@
         "first_line": "testnet 7",
         "added_time_utc": "2025-06-08T14:44:41.150532+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 157,
+        "chat_id": -1002716907736,
+        "message_link": "https://t.me/c/2716907736/157",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "testnet 8",
+        "added_time_utc": "2025-06-08T14:44:43.613293+00:00",
+        "status": "pending"
     }
 ]
