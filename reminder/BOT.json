@@ -8,7 +8,7 @@
         ],
         "first_line": "BOT - CHECK WALLET BALANCE 🔥",
         "added_time_utc": "2025-06-10T16:32:48.150112+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 3762,
@@ -19,6 +19,6 @@
         ],
         "first_line": "Nebulai auto Referral Bot 🔥",
         "added_time_utc": "2025-06-11T18:21:31.905201+00:00",
-        "status": "pending"
+        "status": "sent"
     }
 ]
