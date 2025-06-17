@@ -9,7 +9,7 @@
         ],
         "first_line": "🛠HELIOS TESTNET",
         "added_time_utc": "2025-06-12T03:51:53.059985+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 3777,
@@ -20,6 +20,6 @@
         ],
         "first_line": "New testnet BrokexFi live on Pharos ⚡",
         "added_time_utc": "2025-06-17T03:47:56.113501+00:00",
-        "status": "pending"
+        "status": "sent"
     }
 ]
