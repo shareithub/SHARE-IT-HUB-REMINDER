@@ -8,7 +8,7 @@
         ],
         "first_line": "#INK",
         "added_time_utc": "2025-06-18T02:00:58.467688+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 3791,
@@ -19,6 +19,6 @@
         ],
         "first_line": "🚀NANSEN RETROACTIVE",
         "added_time_utc": "2025-06-18T02:37:44.315252+00:00",
-        "status": "pending"
+        "status": "sent"
     }
 ]
