@@ -32,5 +32,16 @@
         "first_line": "🛠Zealous Testnet 🛠",
         "added_time_utc": "2025-06-17T08:55:38.338168+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 3822,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/3822",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Testnet : Octra",
+        "added_time_utc": "2025-07-01T05:56:14.728214+00:00",
+        "status": "pending"
     }
 ]
