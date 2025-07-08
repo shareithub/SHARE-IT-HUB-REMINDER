@@ -8,7 +8,7 @@
         ],
         "first_line": "Retro active",
         "added_time_utc": "2025-06-15T07:39:35.866495+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 3828,
@@ -19,6 +19,6 @@
         ],
         "first_line": "AIRDROP : Aetheris",
         "added_time_utc": "2025-07-02T13:48:32.401221+00:00",
-        "status": "pending"
+        "status": "sent"
     }
 ]
