@@ -99,16 +99,5 @@
         "first_line": "```html",
         "added_time_utc": "2025-07-18T06:16:00.659487+00:00",
         "status": "sent"
-    },
-    {
-        "message_id": 3901,
-        "chat_id": -1001911416288,
-        "message_link": "https://t.me/c/1911416288/3901",
-        "hashtags": [
-            "#TESTNET"
-        ],
-        "first_line": "```html",
-        "added_time_utc": "2025-07-18T08:00:18.729783+00:00",
-        "status": "sent"
     }
 ]
