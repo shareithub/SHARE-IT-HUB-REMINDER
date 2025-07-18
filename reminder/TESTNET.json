@@ -99,5 +99,16 @@
         "first_line": "dan nikmati USDC gratis kamu! 🎉",
         "added_time_utc": "2025-07-18T11:06:50.286277+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 3913,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/3913",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Hyli Testnet Campaign Ended 🚧",
+        "added_time_utc": "2025-07-18T17:45:49.670854+00:00",
+        "status": "pending"
     }
 ]
