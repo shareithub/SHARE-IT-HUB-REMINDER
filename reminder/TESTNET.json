@@ -98,7 +98,7 @@
         ],
         "first_line": "dan nikmati USDC gratis kamu! 🎉",
         "added_time_utc": "2025-07-18T11:06:50.286277+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 3913,
@@ -109,7 +109,7 @@
         ],
         "first_line": "Hyli Testnet Campaign Ended 🚧",
         "added_time_utc": "2025-07-18T17:45:49.670854+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 3915,
@@ -120,7 +120,7 @@
         ],
         "first_line": "HUDL Testnet Act II: Chapter 2 telah rilis! 🎉  Hadiah dan...",
         "added_time_utc": "2025-07-18T19:05:54.271014+00:00",
-        "status": "pending"
+        "status": "sent"
     },
     {
         "message_id": 3918,
@@ -131,6 +131,6 @@
         ],
         "first_line": "GoKite Testnet Update: Bridge Fitur 🚀",
         "added_time_utc": "2025-07-19T03:04:15.958799+00:00",
-        "status": "pending"
+        "status": "sent"
     }
 ]
