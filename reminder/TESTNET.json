@@ -132,5 +132,17 @@
         "first_line": "GoKite Testnet Update: Bridge Fitur 🚀",
         "added_time_utc": "2025-07-19T03:04:15.958799+00:00",
         "status": "sent"
+    },
+    {
+        "message_id": 3927,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/3927",
+        "hashtags": [
+            "#TESTNET",
+            "#NODE"
+        ],
+        "first_line": "Daftar Airdrop 7-12 Juli 📅🚀",
+        "added_time_utc": "2025-07-19T21:53:06.033063+00:00",
+        "status": "pending"
     }
 ]
