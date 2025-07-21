@@ -166,5 +166,16 @@
         "first_line": "**Succinct Testnet: Selesai! 🎉**",
         "added_time_utc": "2025-07-21T07:41:18.685012+00:00",
         "status": "sent"
+    },
+    {
+        "message_id": 3942,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/3942",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "**Raih Testnet Zenchain di OmniHub! 🚀**",
+        "added_time_utc": "2025-07-21T23:35:02.502641+00:00",
+        "status": "pending"
     }
 ]
