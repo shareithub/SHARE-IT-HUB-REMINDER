@@ -75,5 +75,16 @@
         "first_line": "**Raih 5.000 NEX! Ikuti Merit Badge Challenge! 🎉**",
         "added_time_utc": "2025-07-29T07:34:02.526064+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4003,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4003",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Pengingat: Testnet Dango di Galxe Berakhir 13 Agustus! ⚠️",
+        "added_time_utc": "2025-08-11T07:40:53.229297+00:00",
+        "status": "pending"
     }
 ]
