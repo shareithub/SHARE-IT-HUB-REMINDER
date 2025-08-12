@@ -86,5 +86,16 @@
         "first_line": "Pengingat: Testnet Dango di Galxe Berakhir 13 Agustus! ⚠️",
         "added_time_utc": "2025-08-11T07:40:53.229297+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4004,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4004",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "🦐 Anoma Testnet Update 🎉",
+        "added_time_utc": "2025-08-12T07:01:13.394898+00:00",
+        "status": "pending"
     }
 ]
