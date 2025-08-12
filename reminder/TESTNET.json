@@ -97,5 +97,16 @@
         "first_line": "🦐 Anoma Testnet Update 🎉",
         "added_time_utc": "2025-08-12T07:01:13.394898+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4005,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4005",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "ARC Private Testnet 🎉",
+        "added_time_utc": "2025-08-12T16:02:33.615093+00:00",
+        "status": "pending"
     }
 ]
