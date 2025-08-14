@@ -119,5 +119,16 @@
         "first_line": "KITE AI Testnet Update 🎉",
         "added_time_utc": "2025-08-13T07:12:03.548323+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4010,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4010",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Helios Testnet x Mintpad 🚀",
+        "added_time_utc": "2025-08-14T06:03:23.360466+00:00",
+        "status": "pending"
     }
 ]
