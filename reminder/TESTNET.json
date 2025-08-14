@@ -130,5 +130,16 @@
         "first_line": "Helios Testnet x Mintpad 🚀",
         "added_time_utc": "2025-08-14T06:03:23.360466+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4011,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4011",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Giveaway Rarible! 🎉🎁",
+        "added_time_utc": "2025-08-14T15:01:56.405414+00:00",
+        "status": "pending"
     }
 ]
