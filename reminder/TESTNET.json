@@ -185,5 +185,16 @@
         "first_line": "Mint PNS Testnet Badge 🏆",
         "added_time_utc": "2025-08-19T01:45:10.076202+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4021,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4021",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Update Fhenix Testnet 🚀",
+        "added_time_utc": "2025-08-21T09:45:05.340496+00:00",
+        "status": "pending"
     }
 ]
