@@ -207,5 +207,16 @@
         "first_line": "Youmio Testnet Segera Hadir! 🎉",
         "added_time_utc": "2025-08-23T03:03:03.344596+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4024,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4024",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Update Intuition Testnet 🚀",
+        "added_time_utc": "2025-08-23T05:03:09.521307+00:00",
+        "status": "pending"
     }
 ]
