@@ -218,5 +218,16 @@
         "first_line": "Update Intuition Testnet 🚀",
         "added_time_utc": "2025-08-23T05:03:09.521307+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4025,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4025",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Youmio Chain Testnet Early Access 🚀",
+        "added_time_utc": "2025-08-23T06:48:12.278382+00:00",
+        "status": "pending"
     }
 ]
