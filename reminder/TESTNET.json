@@ -229,5 +229,16 @@
         "first_line": "Youmio Chain Testnet Early Access 🚀",
         "added_time_utc": "2025-08-23T06:48:12.278382+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4037,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4037",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Umi Network: Road to Testnet 🚀",
+        "added_time_utc": "2025-08-25T08:42:34.372985+00:00",
+        "status": "pending"
     }
 ]
