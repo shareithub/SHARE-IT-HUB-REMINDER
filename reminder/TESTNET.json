@@ -251,5 +251,16 @@
         "first_line": "R2 Final Testnet Berakhir dalam 3 Hari! ⏳🔥",
         "added_time_utc": "2025-08-25T13:01:19.431956+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4041,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4041",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Pengumuman Penting: Testnet Anoma Akan Berakhir! ⚠️📅",
+        "added_time_utc": "2025-08-25T17:01:32.413111+00:00",
+        "status": "pending"
     }
 ]
