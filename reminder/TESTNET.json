@@ -262,5 +262,16 @@
         "first_line": "Pengumuman Penting: Testnet Anoma Akan Berakhir! ⚠️📅",
         "added_time_utc": "2025-08-25T17:01:32.413111+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4043,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4043",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Update Helios Testnet 🚀",
+        "added_time_utc": "2025-08-26T02:20:42.550703+00:00",
+        "status": "pending"
     }
 ]
