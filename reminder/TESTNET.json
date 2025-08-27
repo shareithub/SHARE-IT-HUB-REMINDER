@@ -273,5 +273,16 @@
         "first_line": "Update Helios Testnet 🚀",
         "added_time_utc": "2025-08-26T02:20:42.550703+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4046,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4046",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Pharos Testnet: Tugas Onchain #02 🚀",
+        "added_time_utc": "2025-08-27T10:31:51.565985+00:00",
+        "status": "pending"
     }
 ]
