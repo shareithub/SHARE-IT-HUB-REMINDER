@@ -284,5 +284,16 @@
         "first_line": "Pharos Testnet: Tugas Onchain #02 🚀",
         "added_time_utc": "2025-08-27T10:31:51.565985+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4049,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4049",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Acurast Testnet 🎉",
+        "added_time_utc": "2025-08-28T00:32:35.353713+00:00",
+        "status": "pending"
     }
 ]
