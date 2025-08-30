@@ -317,5 +317,16 @@
         "first_line": "R2 Testnet Resmi Berakhir 🎉",
         "added_time_utc": "2025-08-28T11:06:06.552487+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4055,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4055",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Pharos Testnet: Tugas Onchain #03 🎉🚀",
+        "added_time_utc": "2025-08-30T11:16:09.336515+00:00",
+        "status": "pending"
     }
 ]
