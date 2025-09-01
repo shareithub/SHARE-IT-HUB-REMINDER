@@ -328,5 +328,16 @@
         "first_line": "Pharos Testnet: Tugas Onchain #03 🎉🚀",
         "added_time_utc": "2025-08-30T11:16:09.336515+00:00",
         "status": "pending"
+    },
+    {
+        "message_id": 4059,
+        "chat_id": -1001911416288,
+        "message_link": "https://t.me/c/1911416288/4059",
+        "hashtags": [
+            "#TESTNET"
+        ],
+        "first_line": "Mint NFT Angry Monkeys! 🐒🔥",
+        "added_time_utc": "2025-09-01T07:10:41.785801+00:00",
+        "status": "pending"
     }
 ]
